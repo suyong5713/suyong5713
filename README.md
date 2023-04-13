@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sy5713)](https://solved.ac/sy5713)
 
-![snake gif](https://github.com/sy5713/sy5713/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/suyong5713/suyong5713/blob/output/github-contribution-grid-snake.svg)
