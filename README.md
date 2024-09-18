@@ -1,6 +1,5 @@
 ### Hello, World!
 
-- 🔭 I’m currently working on SSAFY 8th
 - 🌱 I’m currently learning Android & Flutter
 
 💪 **Skills**
